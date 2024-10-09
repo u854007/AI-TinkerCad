@@ -5,15 +5,21 @@
 超音波範圍0~100，請幫我分為12段分別顯示對應燈數，並用不同顏色顯示
 
 請給我此程式的程式流程圖，用mermaid語法
-https://mermaid.live/
+Mermaid: https://mermaid.live/
+Draw.io: https://app.diagrams.net/
 
 請給我此程式在生活情境上的應用，用心智圖呈現，使用markdown語法
+Markmap: https://markmap.js.org/
+Xmind: https://xmind.app/download/
 
 請為這個案例設計一個課程，並給我課程設計範本
 
 請轉為課程教案
 
 請依據課程內容測驗學生學習成效，請幫我出是非、選擇、填充及簡答各一題
+
+請幫我出5個選擇題，用表格呈現不要題號，第一欄為題目，第二欄為選項a以此類推到選項d，正確答案請在後面加*字符號
+Wordwall: https://wordwall.net/tc
 
 課程中提到的感測器還能適用在甚麼專題製作
 
